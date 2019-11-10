@@ -2,4 +2,7 @@
 # returns the phrase
 
 def parrot (name = "Squawk")
+  ()
+end
+
   
