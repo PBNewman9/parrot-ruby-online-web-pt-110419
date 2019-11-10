@@ -6,3 +6,4 @@ def parrot (name = "Squawk!")
 end
 
 phrase = parrot
+parrot("Pretty Bird")
