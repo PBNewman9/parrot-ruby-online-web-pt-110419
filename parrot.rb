@@ -5,5 +5,5 @@ def parrot (name = "Squawk!")
   puts "#{name}"
 end
 
-phrase = parrot
+phrase = #{name}
 parrot("Pretty Bird")
